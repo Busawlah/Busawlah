@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-A curiosity-driven Software Developer.<br>Adept in using PHP, Laravel and also MySQL database in supporting my work in both development and production of code.<br>I’m passionate about bringing both the technical and visual aspects of digital products to life.<br>User experience, beautiful pixels and writing clean accessible, human code matters to me.<br>I sweat the details. And as a follower of John Maeda’s Laws Of Simplicity, I agree that less is more. 
+A curiosity-driven Software Developer.<br>Adept in using PHP and MySQL database in supporting my work in both development and production of code.<br>I’m passionate about bringing both the technical and visual aspects of digital products to life.<br>User experience, beautiful pixels and writing clean accessible, human code matters to me.<br>I sweat the details. And as a follower of John Maeda’s Laws Of Simplicity, I agree that less is more. 
 
 
 ## 🌐 Socials:
